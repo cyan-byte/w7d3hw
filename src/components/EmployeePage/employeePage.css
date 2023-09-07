@@ -1,0 +1,19 @@
+.employeepage {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    border: solid 5px brown;
+    padding: 20px;
+}
+
+.employeepage div {
+    border: 1px solid black;
+}
+
+.employeeOverview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    gap: 25px;
+}
